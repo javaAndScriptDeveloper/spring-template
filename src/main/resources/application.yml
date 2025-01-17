@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/example
+    url: jdbc:postgresql://localhost:5432/poc
     username: postgres
     password: password
   liquibase:

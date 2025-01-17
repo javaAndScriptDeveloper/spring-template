@@ -40,8 +40,8 @@ dependencies {
     testCompileOnly ("org.projectlombok:lombok:1.18.36")
     testImplementation ("org.springframework.boot:spring-boot-starter-test")
     testImplementation("io.qameta.allure:allure-junit5:2.29.1")
-    testImplementation("org.wiremock:wiremock:3.10.0")
     testImplementation("org.assertj:assertj-core:3.26.3")
+    testImplementation("org.jeasy:easy-random-core:5.0.0")
     testImplementation (files("src/test/resources"))
 }
 

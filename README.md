@@ -19,7 +19,6 @@ This repository provides a basic skeleton for building Java Spring-based microse
 
 Ensure you have the following installed on your system:
 - **Java 21+**
-- **Gradle**
 - **Docker**
 
 ### Clone the Repository
